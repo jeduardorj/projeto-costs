@@ -15,3 +15,8 @@ Fiz a intalação das seguintes dependencias;
 	*react-router-dom 
 	*uuid:Vai criar Ids quando necessário em nossos projetos cada projeto vai ter um
 	Id unico como em bancos de dados relacionais
+
+Criei um banco de dados com Json
+Fiz a inclusão do backend dentro do package.json nos scripsts
+
+Para rodar a pagina uso npm star para rodar o front-end e o npm run backend para rodar o backend
