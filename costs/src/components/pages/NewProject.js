@@ -11,6 +11,7 @@ function NewProject() {
     function createPost(project) {
 
         //initialaize cost and services
+        //Teste
         project.cost = 0
         project.services = []
 
