@@ -19,4 +19,4 @@ Fiz a intalação das seguintes dependencias;
 Criei um banco de dados com Json
 Fiz a inclusão do backend dentro do package.json nos scripsts
 
-Para rodar a pagina uso npm star para rodar o front-end e o npm run backend para rodar o backend
+Para rodar a pagina uso npm start para rodar o front-end e o npm run backend para rodar o backend

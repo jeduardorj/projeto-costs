@@ -1,47 +1,34 @@
 {
   "projects": [
- 
- 
-
     {
       "name": "Meu projeto",
-      "budget": "15000",
-      "category": {
-        "name": "Desenvolvimento"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 20
-    },
-    {
-      "name": "Meu projeto",
-      "budget": "15000",
-      "category": {
-        "name": "Desenvolvimento"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 21
-    },
-    {
-      "name": "Meu projeto",
-      "budget": "156",
-      "category": {
-        "name": "Infra"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 22
-    },
-    {
-      "name": "Meu projeto",
-      "budget": "1500",
+      "budget": "20000",
       "category": {
         "name": "Planejamento"
       },
       "cost": 0,
       "services": [],
       "id": 23
+    },
+    {
+      "name": "Teste de exclusão",
+      "budget": "4998",
+      "category": {
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 24
+    },
+    {
+      "name": "Compra de Carro",
+      "budget": "30000",
+      "category": {
+        "name": "Design"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 25
     }
   ],
   "categories": [
