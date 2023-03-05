@@ -11,24 +11,24 @@
       "id": 23
     },
     {
-      "name": "Teste de exclusão",
-      "budget": "4998",
+      "name": "Compra de Carro",
+      "budget": "1000",
       "category": {
-        "name": "Desenvolvimento"
+        "name": "Planejamento"
       },
       "cost": 0,
       "services": [],
-      "id": 24
+      "id": 26
     },
     {
-      "name": "Compra de Carro",
-      "budget": "30000",
+      "name": "Teste de Edição",
+      "budget": "50000",
       "category": {
-        "name": "Design"
+        "name": "Planejamento"
       },
       "cost": 0,
       "services": [],
-      "id": 25
+      "id": 27
     }
   ],
   "categories": [
